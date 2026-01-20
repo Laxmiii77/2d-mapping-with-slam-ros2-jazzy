@@ -1,6 +1,7 @@
-## 🗺️ 2D SLAM Mapping with ROS 2 Jazzy
+# 🗺️ 2D SLAM Mapping with ROS 2 Jazzy
 
 <image src=image.png/>
+  
 ## 📌 Features
 
 Real-time 2D occupancy grid mapping
